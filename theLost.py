@@ -8,7 +8,7 @@ import os
 '''
 SERVER = 'irc.rizon.net'
 PORT = 6667
-CHANNEL = '#canaids'
+CHANNEL = '#linux'
 
 NICK = 'TheLost'
 USER = NICK # Change this if you want a different username for your bot than its Nick.
