@@ -12,4 +12,4 @@ Should work on any platform that you can install Python 3 on.
 
 - Python 3
 - Beautiful Soup - *Python scrapping library*
-
+- Requests - *Python HTTP Library*
